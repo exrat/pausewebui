@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1/trunk/pausewebui/images
+END
+pause.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/pausewebui/images/pause.png
+END
+refresh.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/pausewebui/images/refresh.png
+END
+resume.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7/trunk/pausewebui/images/resume.png
+END
